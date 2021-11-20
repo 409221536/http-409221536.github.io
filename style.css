@@ -13,8 +13,25 @@ left: 60%;
     color: white;
 }
 
+.a1 {
+    background-color: rgb(247, 206, 247);
+    color: white;
+    width: 130px;
+}
+
 .h4 {
     background-color: rgb(202, 202, 202);
     color: white;
 }
 
+.like1 {
+    color: rgb(160, 160, 229);
+}
+
+.like2 {
+    color: rgb(235, 209, 125);
+}
+
+.like3 {
+    color: rgb(143, 181, 252);
+}
